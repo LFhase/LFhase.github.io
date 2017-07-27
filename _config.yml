@@ -7,12 +7,12 @@
 
 # Site settings
 title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+email: rimemosa@163.com
+description: Keep Running and Heading For YOur Dream
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://lfhase.win" # the base hostname & protocol for your site
+twitter_username: NULL
+github_username:  LFhase
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
