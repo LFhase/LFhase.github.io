@@ -290,7 +290,7 @@ pre {
 }
 
 .post {
-  font-family: "Source Sans Pro";
+  font-family: microsoft yahei;
   font-size: 18px;
   font-weight: 300;
   padding-top: 0;
@@ -544,7 +544,7 @@ pre {
   padding: 0;
 }
 .page-heading {
-  font-size: 20px;
+  font-size: 10px;
 }
 .post-list {
   margin-left: 0;
@@ -570,11 +570,11 @@ pre {
   margin-bottom: $spacing-unit;
 }
 .post-title {
-  font-size: 62px;
+  font-size: 50px;
 
   text-align: center;
   font-family: "PT Sans";
-  font-weight: 900;
+  font-weight: 500;
   @include media-query($on-laptop) {
     font-size: 36px;
   }
