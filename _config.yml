@@ -11,7 +11,6 @@ email: rimemosa@163.com
 description: Keep Running and Heading For YOur Dream
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lfhase.win" # the base hostname & protocol for your site
-twitter_username: NULL
 github_username:  LFhase
 paginate: 5
 

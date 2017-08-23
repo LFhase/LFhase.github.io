@@ -3,7 +3,8 @@ layout: post
 comments: true
 title: "Hello World"
 date: 2017-07-27 19:21 
-categories: myself
+categories: SELF
+tag: SELF
 
 ---
 > Margaret Mitchell :<br> "I'll think of it all tomorrow, at Tara. I can stand it then. 
