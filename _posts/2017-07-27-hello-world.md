@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Hello World"
 date: 2017-07-27 19:21 
-categories: SELF
+categories: "design"
 tag: SELF
 
 ---
