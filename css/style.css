@@ -33,8 +33,9 @@ p.bio{
 }
 p.pub {
   /* font-family: 'Times New Roman', Times, serif; */
-  /* font-size: 14px;
-  margin-top: 0; */
+  /* font-size: 14px; */
+  margin-top: 0px;
+  margin-bottom: 0px;
   margin: 0px;
 }
 p.author {
