@@ -1,2 +1,3 @@
 *.map
-**\*cv.*
+**/*cv.*
+.DS_Store
