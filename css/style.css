@@ -49,6 +49,9 @@ span.date{
     padding-right: 10px;
     color: brown;
 }
+span.note {
+  color: brown;
+}
 p.text-muted{
     font-size: 14px;
 }
