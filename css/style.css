@@ -41,7 +41,7 @@ p.pub {
 p.author {
   /* font-family: 'Times New Roman', Times, serif; */
   font-size: 14px;
-  margin-top: 0;
+  margin-top: 0px;
   margin: 0px;
 }
 span.date{
@@ -53,7 +53,7 @@ span.note {
   color: brown;
 }
 p.text-muted{
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .footer {
@@ -83,6 +83,6 @@ p.text-muted{
   }
   
 code {
-font-size: 70%;
+  font-size: 70%;
 }
   
